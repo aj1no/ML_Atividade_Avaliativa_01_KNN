@@ -17,7 +17,9 @@ Este repositório contém a resolução integral da **Atividade Avaliativa I** d
 * **Curso:** Ciência de Dados
 * **Disciplina:** Aprendizado de Máquina I
 * **Professor:** Prof. Me. Mateus Guilherme Fuini
-* **Aluno:** Rodolfo Vinicius Cima Takemoto
+* **Integrantes:**
+  * Caio Roberto Farias Saraiva
+  * Rodolfo Vinicius Cima Takemoto
 
 ---
 
